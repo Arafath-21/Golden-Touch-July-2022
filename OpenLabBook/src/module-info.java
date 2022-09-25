@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ARAFAA
+ *
+ */
+module OpenLabBook {
+}
